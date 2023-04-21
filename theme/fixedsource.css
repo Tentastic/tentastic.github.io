@@ -12118,3 +12118,17 @@ html:not(.app-focused) .sidebarRegionScroller-FXiQOh {
 .container-1NXEtd[aria-label*="Chokepoint Games"] [aria-label*="Internalized Memes"]:after {
     --cat-bg: url(https://i.imgur.com/hdzXiuU.jpg)
 }
+
+.message-2CShn3.mentioned-Tre-dv:before {
+    background: linear-gradient(90deg, #2b1e30, rgba(255, 255, 255, .01));
+    border-left: 5px solid #8134ad;
+    border-radius: 5px;
+}
+
+.message-2CShn3.mentioned-Tre-dv:hover:before {
+    background-color: rgba(255, 255, 255, .02)
+}
+
+.mainContent-20q_Hp {
+    cursor: pointer;
+}
