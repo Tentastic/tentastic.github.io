@@ -2973,6 +2973,7 @@ body.foldercontentopened .base-2jDfDU {
     transition: width var(--sidebar-width-transition)
 }
 
+/*
 .avatarSpeaking-36V2PN {
     box-shadow: none !important;
     z-index: -1;
@@ -2992,7 +2993,7 @@ body.foldercontentopened .base-2jDfDU {
     width: var(--width) !important;
     top: calc((var(--height) + var(--bottom)) * -1 + 100vh + (-1 * (var(--server-outer-margin, 14px)))) !important;
     left: calc(-100vw + var(--left) + (var(--user-avatar-size) + var(--usernamebutton-width) + var(--user-outer-right-margin)) + 32px + 8px) !important
-}
+}*/
 
 .panels-3wFtMD .StatusEverywhere-avatar-speaking foreignObject:after {
     content: ""
