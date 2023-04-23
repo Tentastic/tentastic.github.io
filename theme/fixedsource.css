@@ -5301,7 +5301,7 @@ button[class^=attachButton] {
 
 .ephemeral-2nDdnn,
 .ephemeral-2nDdnn:hover {
-    background: 0 0 !important
+    border-radius: 6px;
 }
 
 .embedSpotify-1rDvOE.embedWrapper-1MtIDg {
